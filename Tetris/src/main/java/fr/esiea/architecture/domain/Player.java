@@ -1,4 +1,4 @@
-package domain;
+package fr.esiea.architecture.domain;
 
 /**
  * Created by Maélie on 08/03/2016.

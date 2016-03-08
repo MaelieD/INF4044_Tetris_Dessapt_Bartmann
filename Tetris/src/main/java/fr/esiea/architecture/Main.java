@@ -1,9 +1,13 @@
-import domain.Player;
+package fr.esiea.architecture;
+
+import fr.esiea.architecture.domain.Player;
 
 /**
  * Created by Maélie on 07/03/2016.
  */
 public class Main {
+
+    // boobs
 
     public static String name = "Maelie";
 
