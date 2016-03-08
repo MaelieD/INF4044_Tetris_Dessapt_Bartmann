@@ -10,6 +10,10 @@ public class Player {
         this.name = name;
     }
 
+    public static getNewInstance(String name) {
+        return new Player(name);
+    }
+
     public String getName() {
         return name;
     }
