@@ -13,9 +13,7 @@ public class Player {
     public static getNewInstance(String name) {
         return new Player(name);
     }
-
-    //bob
-
+    
     public String getName() {
         return name;
     }
