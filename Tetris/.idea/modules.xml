@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:/workspace/INF4044_Tetris_Dessapt_Bartmann/Tetris/Tetris.iml" filepath="C:/workspace/INF4044_Tetris_Dessapt_Bartmann/Tetris/Tetris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tetris/src/main/main.iml" filepath="$PROJECT_DIR$/Tetris/src/main/main.iml" />
     </modules>
   </component>
 </project>
